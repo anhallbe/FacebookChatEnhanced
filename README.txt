@@ -1,0 +1,1 @@
+För att installera: Drag n' Drop yo
