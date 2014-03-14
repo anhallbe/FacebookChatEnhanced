@@ -28,8 +28,10 @@ loadImages = function() {
 		}
 	});
 
+	$(".mvm.uiStreamAttachments").remove();
 	$("._59go").remove();
-	$("._sq").remove();
+	$("._530d").remove();
+	//$("._sq").remove();
 }
 
 window.setInterval(loadImages, 5000);
